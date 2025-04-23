@@ -2540,7 +2540,7 @@ spawn(function()
     wait(.36)
 end)
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ThAnhdz9/MinGaming/refs/heads/main/Min')))()
 local Window = OrionLib:MakeWindow({Name = "tên cần đổi", HidePremium = false, IntroText = "tên cần đổi⚜️", SaveConfig = true, ConfigFolder = "NightHub"})
 
 
